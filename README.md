@@ -1,5 +1,5 @@
 
-# Deploy Netflix-Clone on EKS Using Devsecops Pipeline
+# Deploying Netflix-Clone on EKS Using Devsecops Pipeline
 
 In this DevSecOps project we will deploy Netflix clone Application as a docker container on Kubernetes cluster through a secure CICD pipeline using Jenkins, the popular CICD tool.
 Along with Jenkins we are also use many other popular and demanding devops tool like Docker, Sonarqube, Trivy, Prometheus, Grafana and even Argocd and helm for Kubernetes deployment.
